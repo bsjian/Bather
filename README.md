@@ -1,5 +1,5 @@
-# Weathery
-A chrome extension that displays the weather.    
+# Bather
+    
 [Download from the Chrome store here.](https://chrome.google.com/webstore/detail/bather/ldbpocnepgdgpipohgbfimmniinkdmcb)    
 
 Features:
